@@ -1,0 +1,13 @@
+{
+  "name": "zmail._domainkey.naif",
+  "description": "Zoho DKIM authentication for naif.is-a.dev",
+  "owner": {
+    "username": "tugg86722-create",
+    "email": "dewellsmell@gmail.com"
+  },
+  "records": {
+    "TXT": [
+      "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDvUDxJl80jDdiKsBljCCxJxnNbKiLVpcKccvVNV392tVacm0sQC2LTK0J8o+tnLbGS3+AgI15rUdXI/PL4sItoyJaIhQQbQaQ6SJWhYi3Ebsk8G3bzwHXdVvKp1V/SWSPl4AAk4AfdgwmnCSLMyhiKufMLKk4WcU6+eKkt66loUQIDAQAB"
+    ]
+  }
+}
